@@ -1,11 +1,1 @@
-if name
-int age=4;
->>>>>>>>>
-if (age>3)
->>>>>>>>>
-print(git)
-65
-hh
-100
-
-
+999
